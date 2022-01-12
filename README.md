@@ -1,1 +1,1 @@
-# who_will_open_a_bank_account
+# Predicting who will open a bank account. Data from Chilean banks. 
